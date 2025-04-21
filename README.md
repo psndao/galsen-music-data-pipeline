@@ -1,1 +1,1 @@
-# galsen-music-data-pipeline
+Ce projet a pour but d'extraire les Top Tracks de plusieurs artistes sénégalais via l'API Spotify, de transformer les données, puis de les charger dans une table Snowflake. Une visualisation Power BI pourra être faite à partir des données stockées.
